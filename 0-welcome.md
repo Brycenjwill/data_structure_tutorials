@@ -1,8 +1,7 @@
 # Welcome 
 
-When you put a hash sign in front, you get a header.
-
-If you want sub-headings, use more than one hash:
+This is the beginning of a series of written tutorials for differing data structures. +
+Feel free to use the links in this file to navigate the various tutorials.
 
 # Header
 ## Section
