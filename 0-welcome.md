@@ -1,6 +1,11 @@
-# Welcome 
+# Data Structure Tutorials
 
-This is the beginning of a series of written tutorials for differing data structures. +
+## By Brycen Williams, a student in section A2 of Programming with Data Structures at BYUI
+## Email: 
+
+## Welcome 
+
+This is the beginning of a series of written tutorials for differing data structures. 
 Feel free to use the links in this file to navigate the various tutorials.
 
 
