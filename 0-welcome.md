@@ -12,8 +12,8 @@ To make a bulleted list, use a single star in front:
 * Item 2
 * Item 3
 
-To make an ordered list, use numbers:
-1. Item 1
+# Links 
+1. [Stacks Tuturial](1-stacks.md)
 2. Item 2
 3. Item 3
 
