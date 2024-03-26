@@ -1,5 +1,6 @@
 # Stacks
 
+## [Welcome Page](0-welcome.md)
 
 ## Visualizing stacks
 Stacks as a data structure are much like physical stacks that you could see in an office. Imagine what you would be able to do with a stack of five papers. You could add papers to the stack, but most likely only by putting them on top of the stack. You could remove papers from the stack, but you would probably do this by removing the top paper from the stack. This is how stacks function in programming.
@@ -52,5 +53,16 @@ Efficiency: Removing from a stack is O(1)
 # Problems
 Solve these two problems USING STACKS to show that you have learned the data structure.
 
-## Problem 1:
+## Problem 1 (Guided):
+Create a function that reverses a given string. For example, if the word "elppa" is passed in, it should return "apple". The solution must use a stack to solve this problem.
+
+## Solution to Problem 1:
+### Walkthrough:
+For this solution, we will first create an empty stack. Then, we will add each letter from the word to the end of the stack, in order.
+Finally, we will use the pop() method on the stack to remove each item from the stack, starting at the back. We store each item as letter, and add them to a string that will be returned.
+# [Solution](1-problem1-solution.py)
+
+
+## Problem 2:
+Create a function that can sort a list using stacks. Two stacks will be required for the solution. For example, if [1,3,5,2,4,6] is passed in, the function will use stacks to sort the list, and will return [1,2,3,4,5,6].
 
