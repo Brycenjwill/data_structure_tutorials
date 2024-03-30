@@ -124,9 +124,7 @@ Here is a sample of some code that would fulfill that functionality. . .
 #Within the LinkedList class. . .
 
 def remove(self, value):
-    """
-    Remove the first node that contains 'value'.
-    """
+
     current = self.head
 
     # Loop until we have reached the end (None)
