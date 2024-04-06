@@ -1,7 +1,7 @@
 # Data Structure Tutorials
 
 ## By Brycen Williams, a student in section A2 of Programming with Data Structures at BYUI
-## Email: 
+## Email: brycen986@gmail.com
 
 ## Welcome 
 
