@@ -116,7 +116,7 @@ def traverse(self, node):
 Efficiency: Since we obviously need to visit each node individually, traversing the tree is O(n).
 
 # Problems
-Solve these two problems USING STACKS to show that you have learned the data structure.
+Solve these two problems USING TREES to show that you have learned the data structure.
 
 ## Problem 1 (Guided):
 I hope you read up on depth first searches as I recommended! Given a Binary Search Tree, write a method that will traverse the tree using a Depth First Search approach, reaching the end of each branch before moving to the next branch. 
