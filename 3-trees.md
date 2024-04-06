@@ -132,12 +132,10 @@ Feel free to implement pre, in, or post search. This means that you can "visit" 
 Given this tree, the method would first visit the left branches of 3, 5, and 8, before visiting the right hand side of 15, and 14.
 
 ## Solution to Problem 1:
-### Walkthrough:
-For this solution, we will first create an empty stack. Then, we will add each letter from the word to the end of the stack, in order.
-Finally, we will use the pop() method on the stack to remove each item from the stack, starting at the back. We store each item as letter, and add them to a string that will be returned.
-# [Solution](1-problem1-solution.py)
+
+# [Solution](3-problem1-solution.py)
 
 
 ## Problem 2:
-Create a function that can sort a list using stacks. Two stacks will be required for the solution. For example, if [1,3,5,2,4,6] is passed in, the function will use stacks to sort the list, and will return [1,2,3,4,5,6].
+Given an unsorted tree, sort the tree so that it becomes a binary search tree.
 
